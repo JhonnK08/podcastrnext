@@ -4,11 +4,11 @@
 
 ## Rodando backend (json-server)
 ```
-yarn server
+$ yarn server
 ```
 
 ## Rodando frontend
 ```
-yarn dev
+$ yarn dev
 ```
 
